@@ -1,4 +1,4 @@
-### hi there 👋 
+### hi there :)
 
 <!--
 **danielf191/danielf191** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
